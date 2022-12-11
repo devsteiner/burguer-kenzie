@@ -5,7 +5,7 @@
 <br><br>
 
 ![burguer-kenzie](https://github.com/steinerstt/screenshots-projects/blob/main/burguer-kenzie/burguer-kenzie-gif.gif?raw=true)
-> A burguer-kenzie é um catálogo de lanhces de uma hamburgueria. 
+> A Burguer Kenzie é uma aplicação que tem como intuito de exibir o catálogo de lanches de uma hamburgueria. 
 
 ## 🔰 Ao Vivo
 Para acessar o deploy <a href="https://burguer-kenzie-drab.vercel.app/" target="_blank" > Clique Aqui! </a>
