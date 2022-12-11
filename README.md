@@ -14,7 +14,7 @@ Para acessar o deploy <a href="https://burguer-kenzie-drab.vercel.app/" target="
 Os lanches são requisitados através de uma <a href="https://hamburgueria-kenzie-json-serve.herokuapp.com/products" target="_blank"> API </a> fornecida pela Kenzie Academy Brasil™ 
 
 ## 🍒 Layout
-<a href="https://www.figma.com/file/Nx4WZEFXnHzeFsxRaw8y18/M3---1B07---Entrega---Hamburgueria-da-Kenzie?node-id=0%3A1&t=7STWsKdVqKarRHWQ-0" target="_blank" > Figma </a> fornecido pela Kenzie Academy Brasil™ 
+<a href="https://www.figma.com/file/wtbR5KRdStPCIGkddjlpPj/M3---1B07---Entrega---Hamburgueria-da-Kenzie?node-id=0%3A1&t=EsCYK4K84jNJafIP-3" target="_blank" > Figma </a> fornecido pela Kenzie Academy Brasil™ 
 
 
 ## 📌 Features
